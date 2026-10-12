@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\WinFormsStudentApp_Ex3\\WindowsFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF71C4AE-AFC7-4A9D-B58F-27FCD34FAC7A}|WindowsFormsApp\\WindowsFormsApp.csproj|c:\\users\\asus\\source\\repos\\winformsstudentapp_ex3\\windowsformsapp\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF71C4AE-AFC7-4A9D-B58F-27FCD34FAC7A}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WinFormsStudentApp_Ex3\\WindowsFormsApp\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WinFormsStudentApp_Ex3\\WindowsFormsApp\\WindowsFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:53:43.935Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
